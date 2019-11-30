@@ -1,2 +1,2 @@
 # Scope
-(Finished) Tutorial :scope and variables.
+(Finished) Tutorial: scope and variables.
